@@ -315,7 +315,7 @@ body {
   height: 609.9px;
   margin: 0 auto;
   margin-top: 80px;
-  background-image: url(/assets/img/pic2.svg);
+  background-image: url(./pic2.svg);
   background-repeat: no-repeat;
   background-position: right;
 }
