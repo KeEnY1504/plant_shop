@@ -315,7 +315,7 @@ body {
   height: 609.9px;
   margin: 0 auto;
   margin-top: 80px;
-  background-image: url(./pic2.svg);
+  background-image: url('./pic2.svg');
   background-repeat: no-repeat;
   background-position: right;
 }
@@ -358,7 +358,7 @@ body {
   height: 360px;
   margin: 80px auto;
   background-color: #F3F4F6;
-  background-image: url(./Mask Group.svg);
+  background-image: url('./Mask Group.svg');
   background-repeat: no-repeat;
   background-position: right;
 }
